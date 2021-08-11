@@ -1,4 +1,4 @@
-1. Install docker and docker-compose (https://docs.docker.com/compose/gettingstarted/)
+1. Install docker and docker-compose https://docs.docker.com/compose/gettingstarted/
 
 2. Build image and run container: `docker-compose up -d`
 
@@ -8,6 +8,8 @@
 
 5. Run AMPS: `amps --sdr-soapy --channel 333 --channel 332 --samplerate 256000`, select control and voice channels.
 
-6. Wait for `amps.c: 811 info   : (chan 333) Registration <ME numer **********> (ESN = d5996459, Class 3 / Discontinuous / 25 MHz, TIA/EIA-553 or IS-54A mobile station)
+6. Wait for `amps.c: 811 info   : (chan 333) Registration <ME numer **********> (ESN = d5996459, Class 3 / Discontinuous / 25 MHz, TIA/EIA-553 or IS-54A mobile station)`
 
 7. Type ME number and press d for dial.
+
+Moar info: http://osmocom-analog.eversberg.eu/docs/amps.html
