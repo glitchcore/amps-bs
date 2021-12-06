@@ -13,3 +13,4 @@
 7. Type ME number and press d for dial.
 
 Moar info: http://osmocom-analog.eversberg.eu/docs/amps.html
+https://habr.com/ru/company/selectel/blog/559744/
